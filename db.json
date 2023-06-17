@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "adf",
+      "password": "123",
+      "email": "ad@df.fd",
+      "phone": "aadfa",
+      "country": "india",
+      "address": "adfadf",
+      "gender": "male"
+    }
+  ]
+}
